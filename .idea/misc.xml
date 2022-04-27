@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_add_comment_dialog.xml" value="0.28020833333333334" />
+        <entry key="app/src/main/res/layout/activity_comment.xml" value="0.2947916666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.28020833333333334" />
+        <entry key="app/src/main/res/layout/fragment_add_post_dialog.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/post_list_items.xml" value="0.2947916666666667" />
       </map>
     </option>
   </component>
